@@ -18,3 +18,5 @@ This project is a simple calculator implemented in Java as part of Task #1 for t
 3. Enter the second number when prompted.
 4. Choose the desired operation from the menu.
 5. View the result.
+6. Choose if you want to make another operation
+   
